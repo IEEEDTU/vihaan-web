@@ -847,7 +847,7 @@ h1 {
   margin: 0;
   padding: 0;
 }
-
+.p-50-side { padding: 50px; }
 .wrapper {
   background: #000428;
   /* fallback for old browsers */
